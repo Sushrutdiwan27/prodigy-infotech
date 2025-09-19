@@ -1,6 +1,6 @@
 # prodigy-infotech
 prodigy-infotech-internship
-The Prodigy Infotech Online internship has recently concluded, spanning a duration of one month from 1st August to 15 Sep. Throughout this internship, I had the opportunity to delve into various aspects of web development, particularly focusing on HTML, CSS, and JavaScript. The internship was conducted entirely online, allowing for flexibility and convenience in completing the assigned tasks.
+The Prodigy Infotech Online internship has recently concluded, spanning a duration of one month from 15th August to 15 Sep. Throughout this internship, I had the opportunity to delve into various aspects of web development, particularly focusing on HTML, CSS, and JavaScript. The internship was conducted entirely online, allowing for flexibility and convenience in completing the assigned tasks.
 
 INTERSHIP DURATION: 1 MONTHS [15 AUG - 15 SEP]
 
