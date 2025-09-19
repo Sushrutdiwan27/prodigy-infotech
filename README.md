@@ -16,7 +16,7 @@ This repository contains all the tasks given by [Prodigy Infotech](https://prodi
 
 | SN  | Name                                    | Track Code    | Demo                                                  | Description                            |
 | --- | --------------------------------------- | ------------- | ----------------------------------------------------- | -------------------------------------- |
-| 1   | [Responsive Landing Page]    | PRODIGY_WD_01 | [Demo]([https://prodigy1landingpage.netlify.app/](https://sushrutintern1.netlify.app/)             | Responsive Landing page                |
-| 2   | [StopWatch Web App]  | PRODIGY_WD_02 | [Demo]([https://68a21e178493ac5a411872b8--prodigy2stopwatch.netlify.app/](https://spiffy-halva-09efbc.netlify.app/))         | stopwatch that also measures laps.     |
-| 3   | [Tic Tac Toe] | PRODIGY_WD_03 | [Demo]([https://68a21e8a295253829fa2e129--prodigy3tictak.netlify.app/](https://sush3.netlify.app/)) | Offline two player game and also online with AI               |
-| 4   | [Portfolio] | PRODIGY_WD_04 | [Demo]([https://68a21f0ca375b41defcebb37--prodigy4portfolio.netlify.app/](https://sush4.netlify.app/))             | Portfolio website showing about myself |
+| 1   | [Responsive Landing Page]    | PRODIGY_WD_01 | [Demo](https://sushrutintern1.netlify.app/)             | Responsive Landing page                |
+| 2   | [StopWatch Web App]  | PRODIGY_WD_02 | [Demo](https://spiffy-halva-09efbc.netlify.app/)         | stopwatch that also measures laps.     |
+| 3   | [Tic Tac Toe] | PRODIGY_WD_03 | [Demo](https://sush3.netlify.app/) | Offline two player game and also online with AI               |
+| 4   | [Portfolio] | PRODIGY_WD_04 | [Demo](https://sush4.netlify.app/)            | Portfolio website showing about myself |
